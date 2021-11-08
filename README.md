@@ -1,11 +1,12 @@
-# Földönkívüli élet
-## Résztvevő:
+# Portfólió
+## Földönkívüli élet
+### Résztvevő:
 - Nagy Tibor
 - Kiss lajos
 - Kolozsvári Krisztián
 
 [A weboldal megtekintése](http://127.0.0.1:5500/index.html)
-## Források:
+### Források:
 - Földön kívüli élet:
 https://hu.wikipedia.org/wiki/F%C3%B6ld%C3%B6n_k%C3%ADv%C3%BCli_%C3%A9let
 
@@ -17,3 +18,7 @@ https://hu.wikipedia.org/wiki/F%C3%B6ld%C3%B6n_k%C3%ADv%C3%BCli_%C3%A9let
 
 - MÉGIS LEHET ÉLET A FÖLDÖN KÍVÜL? LEHETSÉGES NYOMOKRA BUKKANTAK A KUTATÓK
 		https://www.travelo.hu/tavol/20200914-venusz-bolygo-felfedezes-kulonleges-molekula.html
+## Modern weboldal
+[Lucky-Kávézó](https://lali98.github.io/lukcy_kavezo)
+
+[Csoportmunka elérhetősége](https://github.com/Lali98/Lali98.github.io/tree/master/lukcy_kavezo)

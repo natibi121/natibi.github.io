@@ -37,4 +37,4 @@ Ez egy amőba játék amit az egész osztály közösen oldott meg, Python-nyelv
 ## Kedvenc könyv
 Ez egy önálló projekt volt amit aztán linoit táblán megosztottunk egymással.
 
-[Majd egy közös weboldalt készítettünk belőlük](https://bkata64.github.io/konyv/)
+![kedvenckonyv.png](kedvenckonyv.png)

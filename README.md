@@ -38,3 +38,5 @@ Ez egy amőba játék amit az egész osztály közösen oldott meg, Python-nyelv
 Ez egy önálló projekt volt amit aztán linoit táblán megosztottunk egymással.
 
 ![kedvenckonyv.PNG](kedvenckonyv.PNG)
+
+[A projekt elérhetősége](https://github.com/natibi121/Kedvenc-konyv)

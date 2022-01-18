@@ -26,3 +26,6 @@ Kiválasztottunk egy projektmenedzsert aki figyelte hogy ne maradjon ki egy fela
 Mindegyikünk dolgozott a weboldal elkészítésén.
 
 [Csoportmunka elérhetősége](https://github.com/Lali98/Lali98.github.io/tree/master/lukcy_kavezo)
+
+## Amőba program
+Ez egy amőba játék amit az egész osztály közösen oldott meg, Python-nyelven írtuk meg

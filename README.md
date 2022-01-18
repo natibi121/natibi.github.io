@@ -31,3 +31,5 @@ Mindegyikünk dolgozott a weboldal elkészítésén.
 Ez egy amőba játék amit az egész osztály közösen oldott meg, Python-nyelven írtuk meg
 
 [A játék elérhetősége](https://github.com/natibi121/Amoba)
+
+![amoba.PNG](amoba.PNG)
